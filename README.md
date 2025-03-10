@@ -95,8 +95,8 @@ Throughout this project, we learned the importance of effective collaboration an
 Clone the project to your computer:
 
 ```bash
-git clone https://github.com/menasy/42-Minishell.git
-cd minishell
+git clone https://github.com/seyhmusoksak/Minishell.git
+cd Minishell
 ```
 ## Build the Library
 
